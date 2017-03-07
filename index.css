@@ -1,0 +1,36 @@
+a{ text-decoration: none}   
+header{
+  text-align: center;
+}
+.container{
+  display: flex;
+  justify-content: center;			
+}
+.main-left{
+  max-width: 900px;
+  font-size: 0.938em;
+}
+.infobox{
+  border: 1px solid #a2a9b1;
+  background-color: #f8f9fa;
+  color: black;
+  margin-bottom: 0.5em;
+  margin-left: 1em;
+  padding: 0.2em;
+  border-spacing:3px;
+  width:22em;
+  text-align:left;
+  font-size:small;
+  line-height:1.5em 
+}
+.infobox-title{
+  text-align:center;
+  font-size:125%;
+  font-weight:bold
+} 
+.infobox-img{
+  text-align:center
+}
+cite {
+  font-style: normal;
+}
